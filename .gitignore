@@ -1,5 +1,0 @@
-# basic rules for pelican
-*.pid
-*.pyc
-*.swp
-output/
