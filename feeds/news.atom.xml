@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyCon Zim</title><link href="/" rel="alternate"></link><link href="/feeds/news.atom.xml" rel="self"></link><id>/</id><updated>2016-10-21T08:00:00+02:00</updated><entry><title>Django Software Foundation</title><link href="/django-software-foundation.html" rel="alternate"></link><published>2016-10-21T08:00:00+02:00</published><author><name>@hamub</name></author><id>tag:,2016-10-21:django-software-foundation.html</id><summary type="html">&lt;p&gt;Tags: pelican, publishing
+Slug: dsf&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://siegecommunications.com"&gt;&lt;img alt="Figure 1-0" src="http://zw.pycon.org/images/siege.png" title="Siege" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Support from D.S.F&lt;/h2&gt;</summary></entry></feed>
